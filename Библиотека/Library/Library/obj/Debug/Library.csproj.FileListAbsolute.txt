@@ -1,0 +1,11 @@
+F:\VM\Гришков\C#\Библиотека\Library\Library\bin\Debug\Library.exe.config
+F:\VM\Гришков\C#\Библиотека\Library\Library\bin\Debug\Library.exe
+F:\VM\Гришков\C#\Библиотека\Library\Library\bin\Debug\Library.pdb
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.Form1.resources
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.Properties.Resources.resources
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.exe
+F:\VM\Гришков\C#\Библиотека\Library\Library\obj\Debug\Library.pdb
