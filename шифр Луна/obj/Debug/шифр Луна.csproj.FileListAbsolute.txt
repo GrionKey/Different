@@ -1,0 +1,7 @@
+C:\Users\ИСП-32\source\repos\шифр Луна\bin\Debug\шифр Луна.exe.config
+C:\Users\ИСП-32\source\repos\шифр Луна\bin\Debug\шифр Луна.exe
+C:\Users\ИСП-32\source\repos\шифр Луна\bin\Debug\шифр Луна.pdb
+C:\Users\ИСП-32\source\repos\шифр Луна\obj\Debug\шифр Луна.csproj.AssemblyReference.cache
+C:\Users\ИСП-32\source\repos\шифр Луна\obj\Debug\шифр Луна.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-32\source\repos\шифр Луна\obj\Debug\шифр Луна.exe
+C:\Users\ИСП-32\source\repos\шифр Луна\obj\Debug\шифр Луна.pdb
