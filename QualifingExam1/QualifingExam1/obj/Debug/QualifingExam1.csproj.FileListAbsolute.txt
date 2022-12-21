@@ -1,0 +1,10 @@
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\bin\Debug\QualifingExam1.exe.config
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\bin\Debug\QualifingExam1.exe
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\bin\Debug\QualifingExam1.pdb
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.csproj.AssemblyReference.cache
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.Form1.resources
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.Properties.Resources.resources
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.csproj.GenerateResource.cache
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.csproj.CoreCompileInputs.cache
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.exe
+C:\Users\Grion\source\repos\QualifingExam1\QualifingExam1\obj\Debug\QualifingExam1.pdb
