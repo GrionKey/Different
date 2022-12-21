@@ -1,0 +1,16 @@
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\bin\x64\Debug\Бобров Илья.exe.config
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\bin\x64\Debug\Бобров Илья.exe
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\bin\x64\Debug\Бобров Илья.pdb
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров Илья.csproj.AssemblyReference.cache
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров Илья.csproj.SuggestedBindingRedirects.cache
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Form1.resources
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Form2.resources
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Properties.Resources.resources
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров Илья.csproj.GenerateResource.cache
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров Илья.csproj.CoreCompileInputs.cache
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров Илья.exe
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров Илья.pdb
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Form3.resources
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Form4.resources
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Form5.resources
+F:\VM\Гришков\C#\бобер\Бобров Илья\Бобров Илья\obj\x64\Debug\Бобров_Илья.Form6.resources
