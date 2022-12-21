@@ -1,0 +1,11 @@
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\bin\Debug\Database.accdb
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\bin\Debug\Shoes.exe.config
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\bin\Debug\Shoes.exe
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\bin\Debug\Shoes.pdb
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.Form1.resources
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.exe
+C:\Users\исп-32\Desktop\практ Гришков К.А\бд2гка\Shoes\Shoes\obj\Debug\Shoes.pdb
