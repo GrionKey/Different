@@ -1,0 +1,8 @@
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\bin\Debug\ШифрВиженера.exe.config
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\bin\Debug\ШифрВиженера.exe
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\bin\Debug\ШифрВиженера.pdb
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\obj\Debug\ШифрВиженера.csproj.AssemblyReference.cache
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\obj\Debug\ШифрВиженера.csproj.SuggestedBindingRedirects.cache
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\obj\Debug\ШифрВиженера.csproj.CoreCompileInputs.cache
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\obj\Debug\ШифрВиженера.exe
+F:\VM\Гришков\C#\ШифрВиженера\ШифрВиженера\obj\Debug\ШифрВиженера.pdb
